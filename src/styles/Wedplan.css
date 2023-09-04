@@ -1,0 +1,60 @@
+.planner-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .planner-box {
+    width: 100%; /* Adjust the width as per your preference */
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .planner-box img {
+    width:300;
+    height: 300;
+    margin-bottom: 10px;
+  }
+  
+  .planner-box h4 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .planner-box p {
+    margin-top: 5px;
+    font-size: 14px;
+  }
+  
+  .planner-box button {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .enquiry-page {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  .wed {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .wedTitle {
+    font-family: cursive;
+    font-size: 60px;
+    
+  }
+  .wedplan{ width: 100%;
+    justify-content: center;
+
+  }
